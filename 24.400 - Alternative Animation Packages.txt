@@ -1,0 +1,10 @@
+alternatives to <Transition>
+-React-Motion
+    --> difficult to get get moving with because of the way it works.
+
+-React-Move <-- check out this one for fun!
+    --> if you have complex animations, its great!
+    --> can animate groups / lists
+
+-React-Router-Transition
+    --> can build animations through different routes
